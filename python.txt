@@ -1,4 +1,5 @@
 Python is a intepreted lang.
 python is easy to debug, object oriented programming 
 and functional based programming lang.
+python is also support various data analytical libary to analysis the data.
 
